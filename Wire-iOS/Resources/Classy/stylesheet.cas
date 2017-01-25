@@ -394,7 +394,7 @@ ProfileClientViewController {
         backgroundColor: $color-background;
     }
     
-    descriptionTextView: $font-normal-light;
+    descriptionTextFont: $font-normal-light;
     
     descriptionTextView: @{
         textColor: $color-text-foreground;
